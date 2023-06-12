@@ -3,10 +3,10 @@
 	width:100px;
 	height:100px;
 	background-color:red;
-	animation: heart-pulse 1s infinite ease-in-out;
+	animation: pulse 1s infinite ease-in-out;
 }
 
-@keyframes heart-pulse {
+@keyframes pulse {
 /*   0% {
     transform: scale(0);
   } */
